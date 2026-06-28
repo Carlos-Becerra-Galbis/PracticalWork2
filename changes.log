@@ -1,0 +1,139 @@
+commit 8667e4a47b9cb222f022894d1e252c6b79b8ca2b
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 08:09:45 2026 +0200
+
+    deleting file I didn't end up using and finishing the work!
+
+commit e4125e018dc91439528817cd8b81625ad30025ab
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 08:05:58 2026 +0200
+
+    readme completed
+
+commit 2ce820a0773b4877154c0eec4c47a899d7d35a74
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:57:38 2026 +0200
+
+    putting in the links
+
+commit a0dc0ba45ad31b93c227b20c967cebbeac7b25ab
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:53:42 2026 +0200
+
+    template for net and also fixed a type at about
+
+commit da652a0fc80c6fa4239ab1c7a5ba0003b0cc71ff
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:47:41 2026 +0200
+
+    Just putting in the form
+
+commit 820c9be6b56adf22ff61761176ab6749ab1ad914
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:45:11 2026 +0200
+
+    adding the template of the contact part
+
+commit f92ebd0317eebbc1909adb3be07371db4ca405ad
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:44:07 2026 +0200
+
+    finishing my topic part after doing my research
+
+commit 247ba54ed758b4edd64700fad6b13559fec3e987
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:28:25 2026 +0200
+
+    typo
+
+commit 2278a13df200e5f23d3f888461bf3a8dffd9fc03
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:12:17 2026 +0200
+
+    Fixing bugs
+
+commit cf91b8e8dbe611d5cad6d08b7078e7754e8dff50
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:05:30 2026 +0200
+
+    finishing with the topic template...
+
+commit d6f13ca741491da0057958252e3e2c77307ce53e
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 07:04:16 2026 +0200
+
+    Pushing these last changes, then startin out with my topic, planning on making it abt smth interesting.
+
+commit 1266d099429872fbb1ad669efbacb85dd81e6b76
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 06:58:43 2026 +0200
+
+    Fixing my HTML files and doing my degree file.
+
+commit 5b699d7641b28b6152651d82b5ef5389c0901cf8
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 06:40:20 2026 +0200
+
+    there is an issue with the image's scaling, it doesn't work properly, so i'll be adding just one image.
+
+commit 0f1a88a3aceeeb70702c536ec48cd0945a329136
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 06:37:45 2026 +0200
+
+    Refining and doing the html stuff about the "about me" page"
+
+commit c294293c83ef752c8960f32e891a17b624727583
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 06:33:34 2026 +0200
+
+    adding the CV files and the images files
+
+commit 598d373bd1be6500d623ab03d2887134e88198ec
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Fri Jun 26 06:24:08 2026 +0200
+
+    Doing stuff for the HTLM part of the code
+
+commit cbe2c182e8ba198db3feaab57146960aa5fb5e70
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 20:04:12 2026 +0200
+
+    add initial HTML structure and CSS styles for the webpage
+
+commit 542288ebeea0de6e2e315d7abdce84bb8400c7ea
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 19:55:50 2026 +0200
+
+    remove accidental folder
+
+commit cffd9a46699917f0e59244a8e905ebf9657a1570
+Merge: fe7da29 8416d47
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 19:41:31 2026 +0200
+
+    Merge branch 'main' of https://github.com/Carlos-Becerra-Galbis/My_Own_Web_Page
+
+commit fe7da290b9c78c6035069e3b2b1f5dc9c642bddd
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 19:41:20 2026 +0200
+
+    add more stuff to the folder
+
+commit 8416d47330d17b6cd7f09312719ea6cefa010541
+Merge: 2c7af51 3825c9f
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 19:34:20 2026 +0200
+
+    Merge branch 'main' of https://github.com/Carlos-Becerra-Galbis/My_Own_Web_Page
+
+commit 2c7af5120dd410317063e0680a962acef5aad52e
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 19:30:16 2026 +0200
+
+    Initial Structure for starting
+
+commit 3825c9f6fba3599a27a2891b054710655f408a8e
+Author: carlos-becerra-galbis <9503176@alumnos.ufv.es>
+Date:   Sun Jun 21 19:18:09 2026 +0200
+
+    Initial commit
